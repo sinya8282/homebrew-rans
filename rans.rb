@@ -5,7 +5,6 @@ class Rans < Formula
   homepage 'http://sinya8282.github.com/RANS/'
 
   depends_on 'gmp'
-  depends_on 'gtest'
   depends_on 'gflags'
 
   def install
